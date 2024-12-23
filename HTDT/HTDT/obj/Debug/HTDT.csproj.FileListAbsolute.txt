@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\HTDT\HTDT\bin\Debug\HTDT.exe.config
+C:\Users\HP\source\repos\HTDT\HTDT\bin\Debug\HTDT.exe
+C:\Users\HP\source\repos\HTDT\HTDT\bin\Debug\HTDT.pdb
+C:\Users\HP\source\repos\HTDT\HTDT\obj\Debug\HTDT.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\HTDT\HTDT\obj\Debug\HTDT.HienThiDoanhThu.resources
+C:\Users\HP\source\repos\HTDT\HTDT\obj\Debug\HTDT.Properties.Resources.resources
+C:\Users\HP\source\repos\HTDT\HTDT\obj\Debug\HTDT.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\HTDT\HTDT\obj\Debug\HTDT.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HTDT\HTDT\obj\Debug\HTDT.exe
+C:\Users\HP\source\repos\HTDT\HTDT\obj\Debug\HTDT.pdb
